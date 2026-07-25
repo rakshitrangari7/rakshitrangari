@@ -63,7 +63,7 @@ I enjoy solving real-world business problems through technology and continuously
 
 ## Infosys Ltd.
 ### IFS ERP Technical Consultant
-**June 2022 – Present**
+**January 2022 – Present**
 
 ### Responsibilities
 
