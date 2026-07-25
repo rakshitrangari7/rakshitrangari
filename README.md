@@ -1,119 +1,134 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rakshit+Rangari;IFS+ERP+Technical+Consultant;Oracle+PL%2FSQL+%7C+Java+Developer;IFS+Cloud+%7C+Integration+%7C+Automation" />
-</p>
+<div align="center">
 
-<h3 align="center">
-Passionate about building enterprise solutions, automating business processes, and solving complex ERP challenges.
-</h3>
+# Hi 👋, I'm Rakshit Rangari
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=IFS+Senior+Technical+Consultant;IFS+Cloud+Developer;Oracle+PL%2FSQL+Developer;Report+Developer;Always+Learning+New+Technologies" />
+
+### Building Enterprise ERP Solutions • Oracle • IFS Cloud • Reporting • CI/CD
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakshit-rangari-299b681a3)
+
+</div>
 
 ---
 
 # 💫 About Me
 
-🚀 I am an **IFS ERP Technical Consultant** with **4+ years of experience** working on enterprise ERP implementations and customizations.
+💼 I am an **IFS Senior Technical Consultant** with **4+ years of experience** designing and delivering enterprise ERP solutions.
 
-💼 Currently working at **Infosys**, delivering solutions for global clients using **IFS Applications 10** and **IFS Cloud**.
+Currently working at **Infosys**, where I help North American clients implement, customize, and upgrade **IFS Applications 10** and **IFS Cloud (23R1, 24R1 & 25R1)**.
 
-💡 My expertise includes:
-
-- IFS ERP Development
-- Oracle SQL & PL/SQL
-- Java Development
-- REST APIs
-- Report Development
-- Data Migration
-- Integrations
-- Business Process Automation
-
-I enjoy solving real-world business problems through technology and continuously learning modern enterprise tools.
+I enjoy solving complex business problems through clean technical solutions, automation, and performance optimization.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 What I Do
+
+- ⚙️ IFS Cloud Development
+- 🏗 Base Server Customization
+- 📊 Operational Reports
+- 📑 Quick Reports
+- 📈 Business Analytics Reports
+- 📦 Custom Objects
+- 📋 Permission Sets
+- 🔄 CI/CD
+- ☁️ IFS Cloud Upgrades
+- 🗄 Oracle SQL & PL/SQL
+- 📄 Crystal Reports
+- 📊 Business Reporter
+- 🛠 Production Support
+
+---
+
+# 💻 Tech Stack
 
 ### ERP
-![IFS Applications](https://img.shields.io/badge/IFS_Applications-005BAC?style=for-the-badge)
-![IFS Cloud](https://img.shields.io/badge/IFS_Cloud-00AEEF?style=for-the-badge)
+
+![IFS Cloud](https://img.shields.io/badge/IFS_Cloud-005BAC?style=for-the-badge)
+![IFS Applications 10](https://img.shields.io/badge/IFS_Applications_10-007ACC?style=for-the-badge)
 
 ### Languages
 
-![PLSQL](https://img.shields.io/badge/Oracle_PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle_19c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Database
+### Reporting
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- Operational Reports
+- Quick Reports
+- BA Reports
+- Crystal Reports
+- IFS Business Reporter
 
-### Development
+### Tools
 
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### IDEs
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+![SQL Developer](https://img.shields.io/badge/SQL_Developer-red?style=for-the-badge)
 
 ![IFS Developer Studio](https://img.shields.io/badge/IFS_Developer_Studio-005BAC?style=for-the-badge)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
 ## Infosys Ltd.
-### IFS ERP Technical Consultant
-**January 2022 – Present**
 
-### Responsibilities
+### Technology Analyst
+**Apr 2025 – Present**
 
-✔ Customization and enhancement of IFS ERP solutions
+- Successfully delivered an IFS Cloud upgrade from **23R1 → 25R1**
+- Designed and implemented a Shared Services technical model
+- Delivered end-to-end enterprise technical solutions
+- Worked closely with functional consultants for requirement planning
 
-✔ Oracle SQL & PL/SQL development
+---
 
-✔ Developing Custom Events, Projections & APIs
+### Senior System Engineer
 
-✔ Report Development
+**Apr 2024 – Mar 2025**
 
-✔ Data Migration & Integration
+- Customized enterprise reports
+- Developed complex Oracle SQL & PL/SQL logic
+- Improved reporting performance
 
-✔ Debugging production issues
+---
 
-✔ Performance Optimization
+### System Engineer
 
-✔ Client Support & Requirement Analysis
+**Jan 2022 – Mar 2024**
 
-✔ Agile Development
+- Developed Operational Reports
+- Crystal Reports
+- Custom Objects
+- Lobbies
+- Supported IFS Cloud Upgrade (24R1)
 
 ---
 
 # 🏆 Certifications
 
-🏅 IFS Certified Practitioner – Technical Consultant (IFS Cloud)
-
-🏅 IFS Certified Practitioner – Technical Consultant (IFS Applications 10)
-
-🏅 Integration: RESTful APIs and Boomi
-
-🏅 Smart Data Tool
-
-🏅 IFS Cloud Essentials
-
-🏅 IFS Aurena Overview
-
-🏅 Infosys Certified CPQ Developer
-
-🏅 Oracle Cloud Professional
+- ✅ IFS Certified Practitioner – Technical Consultant (IFS Cloud)
+- ✅ IFS Certified Practitioner – Technical Consultant (IFS Applications 10)
+- ✅ IFS Cloud Web Developer
+- ✅ Reporting & Analytics
+- ✅ Lifecycle Experience
+- ✅ Technician
 
 ---
 
 # 🏅 Achievements
 
-🥇 Multiple Infosys Insta Awards
+🏆 Client Recognition on LinkedIn (2026)
 
-🥇 Rise Insta Award
+🏆 Insta Awards Every Quarter
 
-🥇 Oracle Cloud Professional
+🏆 Four Consecutive High Performance Ratings
 
 ---
 
@@ -121,19 +136,19 @@ I enjoy solving real-world business problems through technology and continuously
 
 **Bachelor of Engineering**
 
-G. H. Raisoni Institute of Engineering & Technology
+Electrical Engineering
 
-Nagpur, Maharashtra
+G.H. Raisoni Institute of Engineering & Technology
+
+CGPA **8.71 / 10**
 
 ---
 
-# 🌱 Currently Learning
+# 🌎 Languages
 
-- IFS Cloud Latest Features
-- Enterprise Integrations
-- DevOps
-- Cloud Technologies
-- AI in ERP
+- English
+- Hindi
+- Marathi
 
 ---
 
@@ -141,11 +156,15 @@ Nagpur, Maharashtra
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
@@ -153,12 +172,16 @@ Nagpur, Maharashtra
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakshit-rangari-299b681a3)
+📧 **rakshitrangari2@gmail.com**
+
+💼 LinkedIn
+
+📍 Nagpur, Maharashtra, India
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile ⭐
 
-</p>
+</div>
