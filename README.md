@@ -37,7 +37,6 @@ I enjoy solving real-world business problems through technology and continuously
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/Oracle_PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
