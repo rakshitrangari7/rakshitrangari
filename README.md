@@ -16,7 +16,7 @@
 
 💼 I am an **IFS Senior Technical Consultant** with **4+ years of experience** designing and delivering enterprise ERP solutions.
 
-Currently working at **Infosys**, where I help North American clients implement, customize, and upgrade **IFS Applications 10** and **IFS Cloud (23R1, 24R1 & 25R1)**.
+Currently working at **Infosys**, where I help North America clients implement, customize, and upgrade **IFS Applications 10** and **IFS Cloud (23R1, 24R1 & 25R1)**.
 
 I enjoy solving complex business problems through clean technical solutions, automation, and performance optimization.
 
