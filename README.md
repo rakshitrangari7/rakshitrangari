@@ -26,18 +26,28 @@ I enjoy solving complex technical problems, improving existing solutions, and wo
 
 ---
 
-# 🚀 What I Do
+# 🎯 What I Bring to the Table
 
 ⚙️ IFS Cloud Development & Customization 
-🏗️ Base Server Extensions and Configurations 
-📦 Custom Objects Development 
-📋 Security Administration & Permission Set Management 
-📊 Operational, Quick, and Business Analytics Reporting  
-📄 Crystal Reports & Business Reporter Development 
-🗄   Oracle SQL & PL/SQL Development and Optimization 
-🔄 CI/CD Pipeline Implementation and Automated Deployments 
-☁️ IFS Cloud Upgrades, Migrations, and Environment Management 
-🛠 Production Support, Troubleshooting, and Issue Resolution 
+
+🏗️ Base Server Extensions and Configurations
+
+📦 Custom Objects Development
+
+📋 Security Administration & Permission Set Management
+
+📊 Operational, Quick, and Business Analytics Reporting
+
+📄 Crystal Reports & Business Reporter Development
+
+🗄   Oracle SQL & PL/SQL Development and Optimization
+
+🔄 CI/CD Pipeline Implementation and Automated Deployments
+
+☁️ IFS Cloud Upgrades, Migrations, and Environment Management
+
+🛠 Production Support, Troubleshooting, and Issue Resolution
+
 📈 Business Process Improvement and ERP Automation
 
 ---
