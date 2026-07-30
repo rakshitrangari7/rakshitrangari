@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Rakshit Rangari
 
-IFS Cloud Technical Consultant | Oracle SQL & PL/SQL | ERP Customization | Reporting l CI/CD
+IFS Cloud Technical Consultant | Oracle SQL & PL/SQL | ERP Customization | Reporting CI/CD
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=IFS+Senior+Technical+Consultant;IFS+Cloud+Developer;Oracle+PL%2FSQL+Developer;Report+Developer;Always+Learning+New+Technologies" />
@@ -17,13 +17,7 @@ IFS Cloud Technical Consultant | Oracle SQL & PL/SQL | ERP Customization | Repor
 
 # 💫 About Me
 
-💼 I am an **IFS Senior Technical Consultant** with **4+ years of experience** designing and delivering enterprise ERP solutions.
-
-Currently working at **Infosys**, where I help North America clients implement, customize, and upgrade **IFS Applications 10** and **IFS Cloud (23R1, 24R1 & 25R1)**.
-
-I enjoy solving complex business problems through clean technical solutions, automation, and performance optimization.
-
-I’m an IFS Cloud Technical Consultant with 4+ years of experience working on enterprise ERP solutions, technical development, reporting, customizations, upgrades, and application support.
+💼 I’m an IFS Cloud Technical Consultant with 4+ years of experience working on enterprise ERP solutions, technical development, reporting, customizations, upgrades, and application support.
 
 My primary expertise is in IFS Cloud, IFS Applications, Oracle SQL/PLSQL, reporting solutions, technical analysis, and CI/CD-based deployments.
 
@@ -33,21 +27,6 @@ I enjoy solving complex technical problems, improving existing solutions, and wo
 ---
 
 # 🚀 What I Do
-
-- ⚙️ IFS Cloud Development
-- 🏗 Base Server Customization
-- 📊 Operational Reports
-- 📑 Quick Reports
-- 📈 Business Analytics Reports
-- 📦 Custom Objects
-- 📋 Permission Sets
-- 🔄 CI/CD
-- ☁️ IFS Cloud Upgrades
-- 🗄 Oracle SQL & PL/SQL
-- 📄 Crystal Reports
-- 📊 Business Reporter
-- 🛠 Production Support
-
 
 ⚙️ IFS Cloud Development & Customization 
 🏗️ Base Server Extensions and Configurations 
@@ -91,13 +70,6 @@ I enjoy solving complex technical problems, improving existing solutions, and wo
 
 ### Reporting
 
-- Operational Reports
-- Quick Reports
-- BA Reports
-- Crystal Reports
-- IFS Business Reporter
-
-
 - IFS Business Reporter
 - Crystal Reports
 - SQL based Reporting
@@ -126,11 +98,6 @@ I enjoy solving complex technical problems, improving existing solutions, and wo
 ### Technology Analyst
 **Apr 2025 – Present**
 
-- Successfully delivered an IFS Cloud upgrade from **23R1 → 25R1**
-- Designed and implemented a Shared Services technical model
-- Delivered end-to-end enterprise technical solutions
-- Worked closely with functional consultants for requirement planning
-
 - Working on IFS Cloud technical development and ERP solutions.
 - Developing and maintaining Oracle SQL/PLSQL logic.
 - Working on reports and reporting related enhancements.
@@ -148,10 +115,6 @@ I enjoy solving complex technical problems, improving existing solutions, and wo
 
 **Apr 2024 – Mar 2025**
 
-- Customized enterprise reports
-- Developed complex Oracle SQL & PL/SQL logic
-- Improved reporting performance
-
 - Worked on IFS ERP technical development and support.
 - Developed SQL/PLSQL solutions and reporting components.
 - Supported application enhancements and technical troubleshooting.
@@ -163,12 +126,6 @@ I enjoy solving complex technical problems, improving existing solutions, and wo
 ### System Engineer
 
 **Jan 2022 – Mar 2024**
-
-- Developed Operational Reports
-- Crystal Reports
-- Custom Objects
-- Lobbies
-- Supported IFS Cloud Upgrade (24R1)
 
 - Started my professional journey working with enterprise ERP solutions.
 - Gained hands-on experience in IFS, Oracle SQL/PLSQL, reporting, and application support.
@@ -190,33 +147,27 @@ I enjoy solving complex technical problems, improving existing solutions, and wo
 
 # 🏅 Achievements
 
-🏆 Client Recognition on LinkedIn (2026)
-
-🏆 Insta Awards Every Quarter
-
-🏆 Four Consecutive High Performance Ratings
-
-- Recognized for technical contributions and delivery excellence.
-- Successfully contributed to enterprise ERP upgrade and support activities.
-- Worked across multiple IFS Cloud releases.
-- Continuously expanded technical expertise across ERP, database, reporting, and DevOps practices.
-- Insta Awards every Quarter from the Infosys Higher Management
-- Client Recognition on LinkedIn for developing out of box logic for the revenue and business Improvements.
+🏆 Recognized for technical contributions and delivery excellence.
+🏆 Successfully contributed to enterprise ERP upgrade and support activities.
+🏆 Worked across multiple IFS Cloud releases.
+🏆 Continuously expanded technical expertise across ERP, database, reporting, and DevOps practices.
+🏆 Insta Awards every Quarter from the Infosys Higher Management
+🏆 Client Recognition on LinkedIn for developing out of box logic for the revenue and business Improvements.
 
 ---
 
-Add another Section for “Currently Learning”
+📚Currently Learning
 
 I'm continuously improving my skills in..
 
-- Advanced IFS Cloud technical development
-- ERP integrations & REST APIs
-- Oracle SQL/PLSQL performance optimization
-- CI/CD & DevOps
-- Automation
-- Cloud technologies
-- Enterprise application architecture
-- AI
+🚀 Advanced IFS Cloud technical development
+🚀 ERP integrations & REST APIs
+🚀 Oracle SQL/PLSQL performance optimization
+🚀 CI/CD & DevOps
+🚀 Automation
+🚀 Cloud technologies
+🚀 Enterprise application architecture
+🚀 Claude AI integrated with IFS ERP
 
 # 🎓 Education
 
