@@ -2,6 +2,9 @@
 
 # Hi 👋, I'm Rakshit Rangari
 
+IFS Cloud Technical Consultant | Oracle SQL & PL/SQL | ERP Customization | Reporting l CI/CD
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=IFS+Senior+Technical+Consultant;IFS+Cloud+Developer;Oracle+PL%2FSQL+Developer;Report+Developer;Always+Learning+New+Technologies" />
 
 ### Building Enterprise ERP Solutions • Oracle • IFS Cloud • Reporting • CI/CD
@@ -19,6 +22,13 @@
 Currently working at **Infosys**, where I help North America clients implement, customize, and upgrade **IFS Applications 10** and **IFS Cloud (23R1, 24R1 & 25R1)**.
 
 I enjoy solving complex business problems through clean technical solutions, automation, and performance optimization.
+
+I’m an IFS Cloud Technical Consultant with 4+ years of experience working on enterprise ERP solutions, technical development, reporting, customizations, upgrades, and application support.
+
+My primary expertise is in IFS Cloud, IFS Applications, Oracle SQL/PLSQL, reporting solutions, technical analysis, and CI/CD-based deployments.
+
+I enjoy solving complex technical problems, improving existing solutions, and working on scalable ERP implementations and upgrades.
+
 
 ---
 
@@ -38,20 +48,46 @@ I enjoy solving complex business problems through clean technical solutions, aut
 - 📊 Business Reporter
 - 🛠 Production Support
 
+
+⚙️ IFS Cloud Development & Customization 
+🏗️ Base Server Extensions and Configurations 
+📦 Custom Objects Development 
+📋 Security Administration & Permission Set Management 
+📊 Operational, Quick, and Business Analytics Reporting  
+📄 Crystal Reports & Business Reporter Development 
+🗄   Oracle SQL & PL/SQL Development and Optimization 
+🔄 CI/CD Pipeline Implementation and Automated Deployments 
+☁️ IFS Cloud Upgrades, Migrations, and Environment Management 
+🛠 Production Support, Troubleshooting, and Issue Resolution 
+📈 Business Process Improvement and ERP Automation
+
 ---
 
 # 💻 Tech Stack
 
 ### ERP
+- IFS Cloud
+- IFS Applications 10
+- IFS Cloud Technical Development
+- ERP Customization
+- ERP Upgrades
+- Technical Analysis
+- Application Support
 
 ![IFS Cloud](https://img.shields.io/badge/IFS_Cloud-005BAC?style=for-the-badge)
 ![IFS Applications 10](https://img.shields.io/badge/IFS_Applications_10-007ACC?style=for-the-badge)
+
+
+
+
+
 
 ### Languages
 
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Oracle](https://img.shields.io/badge/Oracle_19c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ### Reporting
 
@@ -60,6 +96,14 @@ I enjoy solving complex business problems through clean technical solutions, aut
 - BA Reports
 - Crystal Reports
 - IFS Business Reporter
+
+
+- IFS Business Reporter
+- Crystal Reports
+- SQL based Reporting
+- Report Development
+- Report Troubleshooting & Optimization
+- Report Performance Optimization
 
 ### Tools
 
@@ -75,7 +119,7 @@ I enjoy solving complex business problems through clean technical solutions, aut
 
 ---
 
-# 💼 Experience
+# 💼 Experience (Professional Experience)
 
 ## Infosys Ltd.
 
@@ -87,6 +131,17 @@ I enjoy solving complex business problems through clean technical solutions, aut
 - Delivered end-to-end enterprise technical solutions
 - Worked closely with functional consultants for requirement planning
 
+- Working on IFS Cloud technical development and ERP solutions.
+- Developing and maintaining Oracle SQL/PLSQL logic.
+- Working on reports and reporting related enhancements.
+- Supporting IFS Cloud upgrades and technical remediation.
+- Performing technical analysis and troubleshooting.
+- Collaborating with functional and technical teams to resolve issues.
+- Supporting deployment and validation activities.
+- Working with CI/CD and version control practices.
+- IFS Cloud upgrades, troubleshooting and deployment.
+
+
 ---
 
 ### Senior System Engineer
@@ -96,6 +151,12 @@ I enjoy solving complex business problems through clean technical solutions, aut
 - Customized enterprise reports
 - Developed complex Oracle SQL & PL/SQL logic
 - Improved reporting performance
+
+- Worked on IFS ERP technical development and support.
+- Developed SQL/PLSQL solutions and reporting components.
+- Supported application enhancements and technical troubleshooting.
+- Participated in testing, deployment, and production support activities.
+
 
 ---
 
@@ -108,6 +169,11 @@ I enjoy solving complex business problems through clean technical solutions, aut
 - Custom Objects
 - Lobbies
 - Supported IFS Cloud Upgrade (24R1)
+
+- Started my professional journey working with enterprise ERP solutions.
+- Gained hands-on experience in IFS, Oracle SQL/PLSQL, reporting, and application support.
+- Developed strong foundations in technical analysis, debugging, and problem solving.
+- Worked directly with North American clients with technical support and training.
 
 ---
 
@@ -130,7 +196,27 @@ I enjoy solving complex business problems through clean technical solutions, aut
 
 🏆 Four Consecutive High Performance Ratings
 
+- Recognized for technical contributions and delivery excellence.
+- Successfully contributed to enterprise ERP upgrade and support activities.
+- Worked across multiple IFS Cloud releases.
+- Continuously expanded technical expertise across ERP, database, reporting, and DevOps practices.
+- Insta Awards every Quarter from the Infosys Higher Management
+- Client Recognition on LinkedIn for developing out of box logic for the revenue and business Improvements.
+
 ---
+
+Add another Section for “Currently Learning”
+
+I'm continuously improving my skills in..
+
+- Advanced IFS Cloud technical development
+- ERP integrations & REST APIs
+- Oracle SQL/PLSQL performance optimization
+- CI/CD & DevOps
+- Automation
+- Cloud technologies
+- Enterprise application architecture
+- AI
 
 # 🎓 Education
 
@@ -172,6 +258,8 @@ CGPA **8.71 / 10**
 
 # 🤝 Connect With Me
 
+I'm always interested in connecting with fellow developers, IFS professionals, ERP consultants, and technology enthusiasts.
+
 📧 **rakshitrangari2@gmail.com**
 
 💼 LinkedIn
@@ -185,3 +273,4 @@ CGPA **8.71 / 10**
 ### ⭐ Thanks for visiting my profile ⭐
 
 </div>
+
